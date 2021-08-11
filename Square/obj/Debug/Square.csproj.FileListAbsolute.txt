@@ -1,0 +1,6 @@
+C:\Users\mnvp\Desktop\Новая папка (8)\Square\Square\bin\Debug\Square.dll
+C:\Users\mnvp\Desktop\Новая папка (8)\Square\Square\bin\Debug\Square.pdb
+C:\Users\mnvp\Desktop\Новая папка (8)\Square\Square\obj\Debug\Square.csprojAssemblyReference.cache
+C:\Users\mnvp\Desktop\Новая папка (8)\Square\Square\obj\Debug\Square.csproj.CoreCompileInputs.cache
+C:\Users\mnvp\Desktop\Новая папка (8)\Square\Square\obj\Debug\Square.dll
+C:\Users\mnvp\Desktop\Новая папка (8)\Square\Square\obj\Debug\Square.pdb
